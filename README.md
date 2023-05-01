@@ -8,3 +8,6 @@
 1. By `crontab -e` edit a file with cron tasks.
 2. Add to it `0,10,20,30,40,50 * * * * python3 <path to __main.py__>` - this will catch news each 10 minutes.
 3. Save and exit. Thats all.
+
+# Links for example:
+[Telegram channel](https://t.me/ek_fpmi_news) by [this bot](https://t.me/bot_bot_api_bot)
